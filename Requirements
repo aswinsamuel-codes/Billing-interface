@@ -1,0 +1,3 @@
+Pillow      # For image handling if you later want product images
+openpyxl    # If integrating Excel export
+pyinstaller # If you plan to package into an .exe
